@@ -1,4 +1,4 @@
-module github.com/thecodearcher/limen/cmd/limen
+module github.com/gornius/limen/cmd/limen
 
 go 1.25.0
 
